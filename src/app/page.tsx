@@ -88,7 +88,10 @@ export default function Home() {
               <br />
               <span className="text-white">for the Future</span>
             </h1>
-            <GradientCard />
+
+           
+         
+    <GradientCard />
 
             <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-4">
               <button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white font-bold text-lg xsm:text-xl px-6 md:px-8 py-3 md:py-4 rounded-[10px] flex items-center hover:scale-105 transition-transform hover:shadow-[0_0_50px_10px_rgba(138,_43,_226,_0.7)]">
@@ -102,6 +105,8 @@ export default function Home() {
           </div>
         </section>
 
+        
+        
         <section id="features" className="py-20 bg-black">
           <div className="container mx-auto px-4">
             <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-to-r from-purple-400 to-blue-500 text-transparent bg-clip-text">
